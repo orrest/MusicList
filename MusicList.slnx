@@ -6,5 +6,7 @@
 <!--  <Project Path="MusicList.Browser/MusicList.Browser.csproj" />-->
 <!--  <Project Path="MusicList.iOS/MusicList.iOS.csproj" />-->
   <Project Path="MusicList.Desktop/MusicList.Desktop.csproj" />
+  <Project Path="MusicList.Entities/MusicList.Entities.csproj" />
+  <Project Path="MusicList.Test/MusicList.Test.csproj" />
   <Project Path="MusicList/MusicList.csproj" />
 </Solution>
